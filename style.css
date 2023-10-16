@@ -1,0 +1,40 @@
+* {
+    color: white !important;
+    font-family: 'Cormorant Upright', serif;
+    font-family: 'Manrope', sans-serif;
+    /*background-color: black;*/
+}
+nav {
+    background-color: #1f1f1f !important;
+}
+.navs {
+    margin-left: 35%;
+    gap: 50px;
+}
+.background-img {
+    height: 90vh;
+    width: auto;
+    background-image: linear-gradient(to bottom,rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("./images/background31.jpg");
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.mbr-fullscreen {
+    align-items: center;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.growth {
+    font-size: 80px;
+}
+.perfect {
+    font-size: 80px;
+    color: #f23801 !important;
+}
+.deliver {
+    font-size: 25px;
+}
+.history {
+    height: auto;
+    background-color: black !important;
+}
