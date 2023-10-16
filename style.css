@@ -41,3 +41,6 @@ nav {
     width: auto;
     background-color: black !important;
 }
+body {
+    overflow-x: hidden !important;
+}
