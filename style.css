@@ -38,5 +38,6 @@ nav {
 }
 .history {
     height: auto;
+    width: auto;
     background-color: black !important;
 }
