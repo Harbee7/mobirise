@@ -38,7 +38,8 @@ nav {
 }
 .history {
     height: auto;
-    min-width: auto;
+    max-width: 100%;
+    min-width: 30%;
     background-color: black !important;
 }
 body {
