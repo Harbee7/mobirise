@@ -38,9 +38,9 @@ nav {
 }
 .history {
     height: auto;
-    max-width: 100%;
-    min-width: 30%;
+    width: auto;
     background-color: black !important;
+    overflow-x: hidden !important;
 }
 body {
     overflow-x: hidden !important;
