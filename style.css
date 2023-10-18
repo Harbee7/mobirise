@@ -45,3 +45,7 @@ nav {
 body {
     overflow-x: hidden !important;
 }
+.card-image {
+    border-radius: 200px;
+    height: 20%;
+}
